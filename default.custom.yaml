@@ -1,0 +1,15 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Wed Apr  5 12:46:53 2023"
+  rime_version: 1.5.3
+patch:
+  schema_list:
+    - { schema: rime_ice }
+    - { schema: double_pinyin_flypy }
+  "menu/page_size": 7
+  "switcher/hotkeys":
+    - Control+Shift+space
+  "ascii_composer/switch_key":
+    Shift_L: commit_code
