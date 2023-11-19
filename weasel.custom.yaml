@@ -1,8 +1,8 @@
 customization:
   distribution_code_name: Weasel
-  distribution_version: 0.14.3
-  generator: "Weasel::UIStyleSettings"
-  modified_time: "Wed Apr  5 14:04:21 2023"
-  rime_version: 1.5.3
+  distribution_version: 0.15.0.0
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sun Nov 19 16:23:25 2023"
+  rime_version: 1.8.5
 patch:
   "style/color_scheme": google
